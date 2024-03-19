@@ -1,7 +1,7 @@
 Hi 👋 My name is Jurek Legaszewski
 ==================================
 
-Software developer (not sure how to specify my title yet)
+Software developer (not sure how to specify my field yet)
 ---------------------------------------------------------
 
 I am a third year Computer Science student at Silesian University of Technology. I have general knowledge of C++, Java, Assembly language based on multiple projects I did for my studies. I enjoy creating real-life projects made of mechanical parts, microcontroller and software.
