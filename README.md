@@ -4,7 +4,7 @@ Hi 👋 My name is Jurek Legaszewski
 Software developer
 ------------------
 
-I am a fourth year Computer science student at Silesian University of Technology. I have general knowledge of C++, Java, Assembly language based on multiple projects I did for my studies. I enjoy creating real-life projects made of mechanical parts, microcontroller and software.
+I am a fourth year Computer science student at Silesian University of Technology. I have general knowledge of C++, Java, Assembly language based on multiple projects I did for my studies. I enjoy building practical projects that combine mechanical components, microcontrollers, and software.
 
 * 🌍  I'm based in Gliwice
 * ✉️  You can contact me at [jurek.legaszewski@gmail.com](mailto:jurek.legaszewski@gmail.com)
